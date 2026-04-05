@@ -39,12 +39,11 @@ To use this tool, you need a Google Cloud API Key and your Blog ID:
 
 ## 🛠️ How to Use
 
-    1. Run the script:
-   ``` bash
-    Copy
+  1. Run the script:
 
+  
     python blogger_downloader.py
-```
+
 
  * Enter Credentials: Paste your API Key and Blog ID into the respective text fields.
  * Initiate Download: Click the "Generate Portable HTML Files" button.
