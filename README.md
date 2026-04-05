@@ -13,7 +13,7 @@ A lightweight Python utility designed to backup your Blogger posts into complete
 
 ### 1. Prerequisites
 
-You will need Python 3.x installed. You also need to install the required external libraries:
+  You will need Python 3.x installed. You also need to install the required external libraries:
 
 ```bash
 pip install requests beautifulsoup4
@@ -22,7 +22,7 @@ pip install requests beautifulsoup4
 > [!NOTE]
     If you are on Linux, you may also need to install the python3-tk package via your package manager if the GUI doesn't open.
 
-2. Getting your Blogger API Credentials
+### 2. Getting your Blogger API Credentials
 To use this tool, you need a Google Cloud API Key and your Blog ID:
 * API Key:
 
